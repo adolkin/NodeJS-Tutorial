@@ -12,5 +12,8 @@
   "dependencies": {
     "@types/node": "^8.5.7",
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@types/es6-shim": "^0.31.35"
   }
 }
